@@ -1,0 +1,22 @@
+{
+  "name": "my-first-npm-package",
+  "version": "1.0.0",
+  "description": "this is my first npm package to practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogohere/my-first-npm.git"
+  },
+  "keywords": [
+    "study-try"
+  ],
+  "author": "Bluestone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gogohere/my-first-npm/issues"
+  },
+  "homepage": "https://github.com/gogohere/my-first-npm#readme"
+}
